@@ -1,0 +1,17 @@
+[t3]
+FileName1=t3.html
+URL1=http://127.0.0.1:1080/WebTours/header.html
+Total=4
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+ContentType=image/png
+SnapshotXmlFile=snapshot_3.xml
+FileName2=t3_hp_logo.png
+URL2=http://127.0.0.1:1080/WebTours/images/hp_logo.png
+FileName3=t3f1.html
+URL3=http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true
+FrameIndex3=0.1
+UseFrameIndex=1
+FileName4=t3_webtours.png
+URL4=http://127.0.0.1:1080/WebTours/images/webtours.png

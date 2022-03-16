@@ -1,0 +1,528 @@
+[API Trapper      ( 8ec: 8e8)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      ( ee4: 6e4)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (1e14:20d4)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (25d0:29ec)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (25d0:2184)] ------------------------------------------------------------------------------------------
+[Network Analyzer (25d0:2184)] Load Network Traffic Analyzers:
+[Network Analyzer (25d0:2184)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (25d0:2184)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (25d0:2184)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (25d0:2184)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (25d0:2184)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (25d0:2184)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (25d0:2184)]     Analyzer Module: local_server (value=)
+[Network Analyzer (25d0:2184)] ------------------------------------------------------------------------------------------
+[Network Analyzer (25d0:33dc)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[API Trapper      (17ec:2134)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer ( 8ec:294c)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 8ec:294c)] Load Network Traffic Analyzers:
+[Network Analyzer ( 8ec:294c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 8ec:294c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( 8ec:294c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 8ec:294c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( 8ec:294c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( 8ec:294c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 8ec:294c)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( 8ec:294c)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 8ec: a7c)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[API Trapper      (31f8: 764)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Web Request      (25d0:33dc)] "GET /WebTours/"   
+[Network Analyzer (25d0:33dc)]   (Sid:  1) Client -> Server @ : 677 bytes (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid:  1) Server -> Client : 664 bytes  (Service=HTTP)
+[API Trapper      (2f00:2100)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer ( 8ec:10a4)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec:294c)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[API Trapper      ( 33c:286c)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer ( 8ec:10a4)] Request Connection: Remote Server @ 40.90.184.82:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer ( 8ec:294c)] Request Connection: Remote Server @ 40.90.184.82:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( 8ec:3044)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:3044)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:2dd0)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec:2dd0)] Request Connection: Remote Server @ 204.79.197.203:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (25d0:33dc)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer ( 8ec:2978)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:2978)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      ( 8ec: a7c)] "GET /ocsp/MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEzMAI65zMXkOZLpK2CAAAAAjrnM%3D"   
+[Network Analyzer ( 8ec: a7c)]   (Sid:  3) Client -> Server @ : 249 bytes (Service=HTTP)
+[Network Analyzer ( 8ec: a7c)]   (Sid:  3) Server -> Client : 353 bytes  (Service=HTTP)
+[Web Request      ( 8ec: a7c)] "GET /ocsp/MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEzMAI65zMXkOZLpK2CAAAAAjrnM%3D"   
+[Network Analyzer ( 8ec: a7c)]   (Sid:  3) Client -> Server @ : 292 bytes (Service=HTTP)
+[Network Analyzer ( 8ec: a7c)]   (Sid:  3) Server -> Client : 352 bytes  (Service=HTTP)
+[API Trapper      ( 770:1888)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\98.0.1108.62\identity_helper.exe
+[Net An. Warning  (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:21:0:0:0:0:16: - 443 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[API Trapper      (1fcc:156c)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (22ec:30a0)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer ( 8ec: a7c)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer ( 8ec: a7c)]   (Sid:  2) Connection Terminated (by Client)
+[Net An. Warning  ( 8ec: 50c)] Request Connection: Remote Server @ 2600:140F:3:886:0:0:0:356E: - 80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:21:0:0:0:0:16: - 443 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  ( 8ec: 50c)] Request Connection: Remote Server @ 2600:140F:3:886:0:0:0:356E: - 80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:21:0:0:0:0:16: - 443 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Error    (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:21:0:0:0:0:16: - 443  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer ( 8ec:1c1c)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec:230c)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec:230c)] Request Connection: Remote Server @ 40.90.184.73:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( 8ec:1c1c)] Request Connection: Remote Server @ 40.90.184.73:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( 8ec: d94)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec: d94)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec: a7c)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer ( 8ec:24e4)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec:24e4)] Request Connection: Remote Server @ 204.79.197.203:80   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( 8ec: 6a0)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec: 6a0)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      ( 8ec: a7c)] "GET /ocsp/MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEzMAI65zMXkOZLpK2CAAAAAjrnM%3D"   
+[Network Analyzer ( 8ec: a7c)]   (Sid:  6) Client -> Server @ : 249 bytes (Service=HTTP)
+[Network Analyzer ( 8ec: a7c)]   (Sid:  6) Server -> Client : 469 bytes  (Service=HTTP)
+[Net An. Warning  ( 8ec: 50c)] Request Connection: Remote Server @ 2600:140F:3:886:0:0:0:356E: - 80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Error    ( 8ec: 50c)] Request Connection: Remote Server @ 2600:140F:3:886:0:0:0:356E: - 80  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10060)
+[Web Request      ( 8ec: a7c)] "GET /ocsp/MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEzMAI65zMXkOZLpK2CAAAAAjrnM%3D"   
+[Network Analyzer ( 8ec: a7c)]   (Sid:  6) Client -> Server @ : 292 bytes (Service=HTTP)
+[Network Analyzer ( 8ec: a7c)]   (Sid:  6) Server -> Client : 468 bytes  (Service=HTTP)
+[Net An. Warning  (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:21:0:0:0:0:16: - 443 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer ( 8ec: a7c)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer ( 8ec: a7c)]   (Sid:  5) Connection Terminated (by Client)
+[Net An. Warning  ( 8ec: de4)] Request Connection: Remote Server @ 2600:140F:3:88B:0:0:0:356E: - 80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:21:0:0:0:0:16: - 443 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  ( 8ec: de4)] Request Connection: Remote Server @ 2600:140F:3:88B:0:0:0:356E: - 80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:21:0:0:0:0:16: - 443 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Error    (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:21:0:0:0:0:16: - 443  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 204.79.197.219:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 204.79.197.219:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (25d0:27bc)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (25d0:1d2c)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Net An. Warning  ( 8ec: de4)] Request Connection: Remote Server @ 2600:140F:3:88B:0:0:0:356E: - 80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Error    ( 8ec: de4)] Request Connection: Remote Server @ 2600:140F:3:88B:0:0:0:356E: - 80  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer ( 8ec: a7c)]   (Sid:  6) Connection Terminated (by Server)
+[Net An. Warning  (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:C11:0:0:0:0:200: - 443 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:C11:0:0:0:0:200: - 443 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:C11:0:0:0:0:200: - 443 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Error    (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:C11:0:0:0:0:200: - 443  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 13.107.42.16:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 13.107.42.16:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:1204)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 34.234.38.175:443   (Service=)  (Sid=  6)  PROXIED!
+[Net An. Error    (25d0:27bc)] SSLAccept(ssl_id = 2302493272800 = 00000218174B2AE0) Failed, ctx = 000002181748E040, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (25d0:1d2c)] SSLAccept(ssl_id = 2302570504528 = 000002181BE5A150) Failed, ctx = 000002181748E040, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (25d0:27bc)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (25d0:1d2c)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (25d0:16fc)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (25d0:33dc)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (25d0:33dc)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (25d0:3244)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 13.107.21.200:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 34.234.38.175:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 204.79.197.219:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (25d0:2248)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (25d0: f08)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (25d0:3040)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Net An. Warning  (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:C11:0:0:0:0:200: - 443 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer ( 8ec: de4)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec: de4)] Request Connection: Remote Server @ 20.212.97.243:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( 8ec:302c)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:302c)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:1c1c)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec:1c1c)] Request Connection: Remote Server @ 204.79.197.203:80   (Service=)  (Sid=  8)  PROXIED!
+[Web Request      ( 8ec: a7c)] "GET /ocsp/MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEzMAI65zMXkOZLpK2CAAAAAjrnM%3D"   
+[Network Analyzer ( 8ec: a7c)]   (Sid:  8) Client -> Server @ : 249 bytes (Service=HTTP)
+[Network Analyzer ( 8ec: a7c)]   (Sid:  8) Server -> Client : 469 bytes  (Service=HTTP)
+[Web Request      ( 8ec: a7c)] "GET /ocsp/MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEzMAI65zMXkOZLpK2CAAAAAjrnM%3D"   
+[Network Analyzer ( 8ec: a7c)]   (Sid:  8) Client -> Server @ : 292 bytes (Service=HTTP)
+[Network Analyzer ( 8ec: a7c)]   (Sid:  8) Server -> Client : 468 bytes  (Service=HTTP)
+[Net An. Warning  (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:C11:0:0:0:0:200: - 443 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 2620:1EC:C11:0:0:0:0:200: - 443  (Service=)  (Sid= 10)  PROXIED!
+[User action                 ] Pausing...  [Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer ( 8ec:1c1c)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec:1c1c)] Request Connection: Remote Server @ 40.90.184.73:443   (Service=)  (Sid= 21)  PROXIED!
+[Web Request      (25d0:33dc)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (25d0:33dc)]   (Sid: 36) Client -> Server @ : 1020 bytes (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 36) Server -> Client : 860 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 36) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (25d0:33dc)]   (Sid: 36) Client -> Server @ : 884 bytes (Service=HTTP)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer ( 8ec: 50c)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec: de4)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:33dc)]   (Sid: 36) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 36) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (25d0:33dc)]   (Sid: 37) Client -> Server @ : 879 bytes (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (25d0:33dc)]   (Sid: 36) Client -> Server @ : 793 bytes (Service=HTTP)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer ( 8ec: 50c)] Request Connection: Remote Server @ 40.90.184.73:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec: de4)] Request Connection: Remote Server @ 40.90.184.73:443   (Service=)  (Sid= 23)  PROXIED!
+[Web Request      (25d0:33dc)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (25d0:33dc)]   (Sid: 38) Client -> Server @ : 795 bytes (Service=HTTP)
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:33dc)]   (Sid: 36) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 38) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 40)  PROXIED!
+[Web Request      (25d0:33dc)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (25d0:33dc)]   (Sid: 39) Client -> Server @ : 793 bytes (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 39) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (25d0:33dc)]   (Sid: 40) Client -> Server @ : 793 bytes (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 40) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 37) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 37) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 8ec:2bc8)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:2bc8)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:19ec)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:19ec)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:2ea0)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:2ea0)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (25d0:33dc)]   (Sid: 38) Connection Terminated (by Client)
+[Network Analyzer (25d0:33dc)]   (Sid: 39) Connection Terminated (by Client)
+[Network Analyzer (25d0:33dc)]   (Sid: 36) Connection Terminated (by Client)
+[Network Analyzer (25d0:33dc)]   (Sid: 40) Connection Terminated (by Client)
+[Network Analyzer (25d0:33dc)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer ( 8ec:1c1c)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec:1c1c)] Request Connection: Remote Server @ 40.90.184.82:443   (Service=)  (Sid= 24)  PROXIED!
+[Web Request      (25d0:33dc)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (25d0:33dc)]   (Sid: 41) Client -> Server @ : 918 bytes (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 41) Server -> Client : 839 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 41) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (25d0:33dc)]   (Sid: 41) Client -> Server @ : 901 bytes (Service=HTTP)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 42)  PROXIED!
+[Network Analyzer ( 8ec: de4)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec:2dd0)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:33dc)]   (Sid: 41) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 41) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (25d0:33dc)]   (Sid: 42) Client -> Server @ : 902 bytes (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer (25d0:33dc)]   (Sid: 41) Client -> Server @ : 799 bytes (Service=HTTP)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 43)  PROXIED!
+[Network Analyzer ( 8ec: de4)] Request Connection: Remote Server @ 40.90.184.82:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (25d0:33dc)]   (Sid: 41) Server -> Client : 1023 bytes  (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /WebTours/images/home.gif"   
+[Network Analyzer ( 8ec:2dd0)] Request Connection: Remote Server @ 40.90.184.82:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (25d0:33dc)]   (Sid: 43) Client -> Server @ : 793 bytes (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 43) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer ( 8ec:224c)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:224c)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec: fb0)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec: fb0)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (25d0:33dc)]   (Sid: 42) Server -> Client : 4235 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 42) Server -> Client : 286 bytes  (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (25d0:33dc)]   (Sid: 42) Client -> Server @ : 801 bytes (Service=HTTP)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:33dc)]   (Sid: 42) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 204.79.197.219:443   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer ( 8ec: ec4)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec: ec4)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (25d0:33dc)]   (Sid: 43) Connection Terminated (by Client)
+[Network Analyzer (25d0:33dc)]   (Sid: 42) Connection Terminated (by Client)
+[Network Analyzer (25d0:33dc)]   (Sid: 41) Connection Terminated (by Client)
+[Network Analyzer (25d0: 3bc)]   (Sid: 44) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (25d0: 3bc)]   (Sid: 44) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 26) Connection Terminated (by Client)
+[Web Request      (25d0:33dc)] "GET /autofillservice/v1/pages/ChRDaHJvbWUvOTguMC40NzU4LjEwMhIsCesIHR01a_Z_EgUNVGIprRIFDXudxKUSBQ0fOzmFEgUN2oWZYRIFDamOSr0=?alt=proto"   
+[Network Analyzer (25d0:33dc)]   (Sid: 44) Client -> Server @ : 689 bytes (SSL)(Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 44) Server -> Client : 379 bytes (SSL) (Service=HTTP)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 13.107.213.68:443   (Service=)  (Sid= 45)  PROXIED!
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 46)  PROXIED!
+[Network Analyzer ( 8ec:1c1c)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:16b8)]   (Sid: 45) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (25d0:16b8)]   (Sid: 45) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 8ec:1c1c)] Request Connection: Remote Server @ 40.90.184.82:443   (Service=)  (Sid= 27)  PROXIED!
+[Web Request      (25d0:33dc)] "GET /assets/domains_config/1.7.5/domains_config?sv=2017-07-29&sr=c&sig=U9QrcSkSepSZQLb4aa1mecNgQeRD6cH825NySstsd7k%3D&st=2021-01-01T00%3A00%3A00Z&se=2022-05-30T00%3A00%3A00Z&sp=r"   
+[Network Analyzer (25d0:33dc)]   (Sid: 45) Client -> Server @ : 747 bytes (SSL)(Service=HTTP)
+[Web Request      (25d0:33dc)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (25d0:33dc)]   (Sid: 46) Client -> Server @ : 1282 bytes (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 45) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 45) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 45) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 45) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 45) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 45) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 45) Server -> Client : 11770 bytes (SSL) (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 46) Server -> Client : 2701 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 46) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 8ec:1d44)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:1d44)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (25d0:33dc)]   (Sid: 45) Connection Terminated (by Client)
+[Network Analyzer (25d0:33dc)]   (Sid: 44) Connection Terminated (by Client)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 27) Connection Terminated (by Client)
+[Web Request      (25d0:33dc)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (25d0:33dc)]   (Sid: 46) Client -> Server @ : 1178 bytes (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 46) Server -> Client : 3005 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 46) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 204.79.197.219:443   (Service=)  (Sid= 47)  PROXIED!
+[Network Analyzer ( 8ec: a7c)]   (Sid: 17) Connection Terminated (by Server)
+[Network Analyzer (25d0:272c)]   (Sid: 47) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (25d0:272c)]   (Sid: 47) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (25d0:33dc)] "GET /autofillservice/v1/pages/ChRDaHJvbWUvOTguMC40NzU4LjEwMhI6CWvH9j9qPXzgEgUNa2iabhIFDU-eJ_gSBQ1jkyeHEgUNolm4SRIFDfi0_qASBQ1XaCyZEgUNbfpmyQ==?alt=proto"   
+[Network Analyzer (25d0:33dc)]   (Sid: 47) Client -> Server @ : 709 bytes (SSL)(Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 47) Server -> Client : 412 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 8ec: de4)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec: de4)] Request Connection: Remote Server @ 20.212.96.199:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (25d0:33dc)]   (Sid: 46) Connection Terminated (by Server)
+[Network Analyzer ( 8ec:2030)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:2030)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (25d0:33dc)]   (Sid: 47) Connection Terminated (by Client)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 48)  PROXIED!
+[Network Analyzer ( 8ec:1c1c)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec:1c1c)] Request Connection: Remote Server @ 40.90.184.73:443   (Service=)  (Sid= 29)  PROXIED!
+[Web Request      (25d0:33dc)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (25d0:33dc)]   (Sid: 48) Client -> Server @ : 1351 bytes (Service=HTTP)
+[Network Analyzer ( 8ec: 3f0)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec: 3f0)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (25d0:33dc)]   (Sid: 48) Server -> Client : 2874 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 48) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer (25d0:33dc)]   (Sid: 48) Client -> Server @ : 785 bytes (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 48) Server -> Client : 1103 bytes  (Service=HTTP)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer (25d0:33dc)]   (Sid: 48) Connection Terminated (by Server)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 49)  PROXIED!
+[Network Analyzer ( 8ec:1c1c)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec:1c1c)] Request Connection: Remote Server @ 20.212.96.199:443   (Service=)  (Sid= 30)  PROXIED!
+[Web Request      (25d0:33dc)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer (25d0:33dc)]   (Sid: 49) Client -> Server @ : 921 bytes (Service=HTTP)
+[Network Analyzer ( 8ec:2dc4)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:2dc4)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (25d0:33dc)]   (Sid: 49) Server -> Client : 814 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 49) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer (25d0:33dc)]   (Sid: 49) Client -> Server @ : 903 bytes (Service=HTTP)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 50)  PROXIED!
+[Network Analyzer ( 8ec: 50c)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec:1c1c)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:33dc)]   (Sid: 49) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 49) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer (25d0:33dc)]   (Sid: 50) Client -> Server @ : 886 bytes (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /WebTours/images/in_itinerary.gif"   
+[Network Analyzer (25d0:33dc)]   (Sid: 49) Client -> Server @ : 800 bytes (Service=HTTP)
+[Network Analyzer ( 8ec: 50c)] Request Connection: Remote Server @ 20.212.96.199:443   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer ( 8ec:1c1c)] Request Connection: Remote Server @ 20.212.96.199:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (25d0:33dc)]   (Sid: 49) Server -> Client : 1030 bytes  (Service=HTTP)
+[Network Analyzer ( 8ec:30a8)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:30a8)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (25d0:33dc)]   (Sid: 50) Server -> Client : 4235 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 50) Server -> Client : 2116 bytes  (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /WebTours/images/cancelreservation.gif"   
+[Network Analyzer (25d0:33dc)]   (Sid: 50) Client -> Server @ : 788 bytes (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /WebTours/images/cancelallreservations.gif"   
+[Network Analyzer (25d0:33dc)]   (Sid: 49) Client -> Server @ : 792 bytes (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 50) Server -> Client : 1128 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 49) Server -> Client : 1039 bytes  (Service=HTTP)
+[Network Analyzer ( 8ec:27c8)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:27c8)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 31) Connection Terminated (by Client)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 32) Connection Terminated (by Client)
+[Network Analyzer (25d0:33dc)]   (Sid: 50) Connection Terminated (by Server)
+[Network Analyzer (25d0:33dc)]   (Sid: 49) Connection Terminated (by Server)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 51)  PROXIED!
+[Network Analyzer ( 8ec:2dd0)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer ( 8ec:2dd0)] Request Connection: Remote Server @ 40.90.184.73:443   (Service=)  (Sid= 33)  PROXIED!
+[Web Request      (25d0:33dc)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (25d0:33dc)]   (Sid: 51) Client -> Server @ : 918 bytes (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 51) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (25d0:33dc)]   (Sid: 51) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (25d0:33dc)]   (Sid: 51) Client -> Server @ : 763 bytes (Service=HTTP)
+[Network Analyzer (25d0:2184)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:2184)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 52)  PROXIED!
+[Network Analyzer (25d0:33dc)]   (Sid: 51) Server -> Client : 1743 bytes  (Service=HTTP)
+[Network Analyzer ( 8ec:10a4)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:33dc)]   (Sid: 51) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (25d0:33dc)] "GET /WebTours/home.html"   
+[Network Analyzer (25d0:33dc)]   (Sid: 52) Client -> Server @ : 859 bytes (Service=HTTP)
+[Network Analyzer ( 8ec:2dd0)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (25d0:33dc)]   (Sid: 52) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer ( 8ec:10a4)] Request Connection: Remote Server @ 40.90.184.73:443   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer ( 8ec:2dd0)] Request Connection: Remote Server @ 40.90.184.73:443   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer ( 8ec:145c)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec:145c)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec: 778)]   (Sid: 34) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec: 778)]   (Sid: 34) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec: 774)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec: 774)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer ( 8ec: a7c)]   (Sid: 35) Connection Terminated (by Client)
+[Network Analyzer (25d0:33dc)]   (Sid: 51) Connection Terminated (by Client)
+[Network Analyzer (25d0:33dc)]   (Sid: 52) Connection Terminated (by Client)
+[API Trapper      (1eac:2878)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (1804:2550)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (1dc4: 4e8)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (2340:28c8)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (1eac:1a84)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1eac:1a84)] Load Network Traffic Analyzers:
+[Network Analyzer (1eac:1a84)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1eac:1a84)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1eac:1a84)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1eac:1a84)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1eac:1a84)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1eac:1a84)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1eac:1a84)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1eac:1a84)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1eac:1b38)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (2340:25f0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2340:25f0)] Load Network Traffic Analyzers:
+[Network Analyzer (2340:25f0)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2340:25f0)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2340:25f0)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2340:25f0)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2340:25f0)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2340:25f0)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2340:25f0)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2340:25f0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2340:1bf8)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[API Trapper      (2218:2c10)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (21b4:2dec)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (1eac:1a84)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (1eac:1a84)] Request Connection: Remote Server @ 20.212.96.199:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (2340:25f0)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (2340:25f0)] Request Connection: Remote Server @ 204.79.197.219:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1eac:2740)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (1eac:2740)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[API Trapper      ( 8a4:1e38)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (2340:25f0)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (1eac:253c)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (1eac:253c)] Request Connection: Remote Server @ 204.79.197.203:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2340:25f0)] Request Connection: Remote Server @ 3.93.235.163:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2340:25f0)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[API Trapper      (276c:29e4)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (2340:  c4)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2340:25f0)] Request Connection: Remote Server @ 3.93.235.163:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2340:  c4)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1eac:1b38)] "GET /ocsp/MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEzMAI65zMXkOZLpK2CAAAAAjrnM%3D"   
+[Network Analyzer (1eac:1b38)]   (Sid:  2) Client -> Server @ : 249 bytes (Service=HTTP)
+[Network Analyzer (2340:2468)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2340:25f0)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (1eac:1b38)]   (Sid:  2) Server -> Client : 353 bytes  (Service=HTTP)
+[API Trapper      (19d8:3128)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\98.0.1108.62\identity_helper.exe
+[Web Request      (1eac:1b38)] "GET /ocsp/MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEzMAI65zMXkOZLpK2CAAAAAjrnM%3D"   
+[Network Analyzer (1eac:1b38)]   (Sid:  2) Client -> Server @ : 292 bytes (Service=HTTP)
+[Network Analyzer (1eac:1b38)]   (Sid:  2) Server -> Client : 352 bytes  (Service=HTTP)
+[Network Analyzer (1eac: 608)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (1eac: 608)] Request Connection: Remote Server @ 23.200.49.224:80   (Service=)  (Sid=  3)  PROXIED!
+[Web Request      (2340:1bf8)] "GET /extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=98.0.1108.62&lang=en-US&acceptformat=crx3&x=id%3Dbiaiohdllmhjchjdhgamfmdjfhpbaohf%26v%3D2.0.0%26installedby%3Dinternal%26uc&x=id%3Dcnlefmmeadmemmdciolhbnfeacpdfbkd%26v%3D14.1008.0%26installedby%3Dinternal%26uc"   
+[Network Analyzer (2340:1bf8)]   (Sid:  1) Client -> Server @ : 814 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2340:25f0)] Request Connection: Remote Server @ 54.81.200.87:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (2340:2468)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2340:1bf8)]   (Sid:  1) Server -> Client : 846 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  2) Client -> Server @ : 635 bytes (SSL)(Service=HTTP)
+[Web Request      (2340:1bf8)] "POST /logv2"   
+[Network Analyzer (2340:1bf8)]   (Sid:  2) Client -> Server @ : 1007 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2340:1528)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2340:1528)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2340:1bf8)]   (Sid:  2) Server -> Client : 505 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  3) Client -> Server @ : 635 bytes (SSL)(Service=HTTP)
+[Web Request      (2340:1bf8)] "POST /logv2"   
+[Network Analyzer (2340:1bf8)]   (Sid:  3) Client -> Server @ : 1002 bytes (SSL)(Service=HTTP)
+[Web Request      (1eac:1b38)] "GET /pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2005.crl"   
+[Network Analyzer (1eac:1b38)]   (Sid:  3) Client -> Server @ : 176 bytes (Service=HTTP)
+[Network Analyzer (1eac:1b38)]   (Sid:  3) Server -> Client : 1620 bytes  (Service=HTTP)
+[Web Request      (1eac:1b38)] "GET /pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2005.crl"   
+[Network Analyzer (1eac:1b38)]   (Sid:  3) Client -> Server @ : 219 bytes (Service=HTTP)
+[Network Analyzer (2340:1908)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2340:1908)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1eac:1b38)]   (Sid:  3) Server -> Client : 1620 bytes  (Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  3) Server -> Client : 505 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  4) Client -> Server @ : 4068 bytes (SSL)(Service=HTTP)
+[Web Request      (2340:1bf8)] "POST /treatment/get"   
+[Network Analyzer (2340:1bf8)]   (Sid:  4) Client -> Server @ : 638 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1eac:1b38)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (2340:1bf8)]   (Sid:  4) Server -> Client : 532 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  4) Server -> Client : 17 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  4) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2340:25f0)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (2340:25f0)] Request Connection: Remote Server @ 13.35.238.22:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (2340:2114)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2340:2114)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (2340:1bf8)] "GET /dynamicConfig.json"   
+[Network Analyzer (2340:1bf8)]   (Sid:  5) Client -> Server @ : 626 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  5) Server -> Client : 454 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (2340:1bf8)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (2340:1bf8)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (2340:1bf8)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (2340:1bf8)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (2340:25f0)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (2340:25f0)] Request Connection: Remote Server @ 204.79.197.219:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (2340:25f0)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (2340:25f0)] Request Connection: Remote Server @ 34.239.10.3:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (2340:25f0)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (2340: b68)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2340:25f0)] Request Connection: Remote Server @ 35.173.100.59:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (2340: b68)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2340:19ac)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2340:19ac)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (2340:1bf8)] "GET /extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=98.0.1108.62&lang=en-US&acceptformat=crx3&x=id%3Dcnlefmmeadmemmdciolhbnfeacpdfbkd%26v%3D14.1008.0%26installedby%3Dinternal%26uc"   
+[Network Analyzer (2340:1bf8)]   (Sid:  6) Client -> Server @ : 732 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  7) Client -> Server @ : 3934 bytes (SSL)(Service=HTTP)
+[Web Request      (2340:1bf8)] "POST /events"   
+[Network Analyzer (2340:1bf8)]   (Sid:  7) Client -> Server @ : 529 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  6) Server -> Client : 721 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  7) Server -> Client : 441 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2340:1b2c)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2340:1b2c)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (2340:1bf8)] "POST /v3/user/oranonymous?field=frontend_primaryLanguage&field=frontend_soundFluent&field=frontend_role&containerId=iDmATwwlc8M4"   
+[Network Analyzer (2340:1bf8)]   (Sid:  8) Client -> Server @ : 4161 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  8) Server -> Client : 1648 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2340:25f0)] Address lookup for DESKTOP-DJ4IH5F = 192.168.43.235
+[Network Analyzer (2340:25f0)] Request Connection: Remote Server @ 174.129.129.80:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (2340:21f0)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2340:21f0)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2340:1bf8)]   (Sid:  9) Client -> Server @ : 4104 bytes (SSL)(Service=HTTP)
+[Web Request      (2340:1bf8)] "POST /api/mimic"   
+[Network Analyzer (2340:1bf8)]   (Sid:  9) Client -> Server @ : 63 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  9) Server -> Client : 5025 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  9) Client -> Server @ : 4134 bytes (SSL)(Service=HTTP)
+[Web Request      (2340:1bf8)] "POST /api/props/v2/find"   
+[Network Analyzer (2340:1bf8)]   (Sid:  9) Client -> Server @ : 2 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (2340:1bf8)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (2340:1bf8)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (2340:1bf8)]   (Sid:  9) Server -> Client : 2138 bytes (SSL) (Service=HTTP)
+[Web Request      (2340:1bf8)] "POST /api/props/v2/isLlamaInstalled"   
+[Network Analyzer (2340:1bf8)]   (Sid:  9) Client -> Server @ : 4146 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  9) Server -> Client : 527 bytes (SSL) (Service=HTTP)
+[Web Request      (2340:1bf8)] "POST /api/props/v2/showDesktopIntegrationExtensionToggle"   
+[Network Analyzer (2340:1bf8)]   (Sid:  9) Client -> Server @ : 4167 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2340:1bf8)]   (Sid:  9) Server -> Client : 527 bytes (SSL) (Service=HTTP)
+[API Trapper      (18ec:12b4)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (1c54: bb8)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (2340:1bf8)]   (Sid:  9) Connection Terminated (by Client)

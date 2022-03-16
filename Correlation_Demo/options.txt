@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\windows\Documents\VuGen\Scripts\Correlation_Demo
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\windows\documents\vugen\scripts\correlation_demo\\logfile.log
+c:\users\windows\documents\vugen\scripts\correlation_demo\\combined_Correlation_Demo.c
+c:\users\windows\documents\vugen\scripts\correlation_demo\\pre_cci.c

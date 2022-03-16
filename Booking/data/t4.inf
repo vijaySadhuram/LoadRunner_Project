@@ -1,0 +1,9 @@
+[t4]
+FileName1=t4.html
+URL1=http://127.0.0.1:1080/WebTours/
+Total=1
+RequestHeaderFile=t4_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t4_ResponseHeader.txt
+ContentType=
+SnapshotXmlFile=snapshot_2.xml

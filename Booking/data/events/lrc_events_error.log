@@ -1,0 +1,7 @@
+Starting Events Error Log
+Second In Event with the same thread ID
+Out Event without a matching In event
+One or more responses is missing or has missing packets. A step may appear to be missing in the script.
+Check if recording was stopped before all responses have finished. If script is generated from a .pcap file, check if file has missing packets.
+One or more responses is missing or has missing packets. A step may appear to be missing in the script.
+Check if recording was stopped before all responses have finished. If script is generated from a .pcap file, check if file has missing packets.

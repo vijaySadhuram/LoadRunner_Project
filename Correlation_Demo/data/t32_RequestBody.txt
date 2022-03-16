@@ -1,0 +1,3 @@
+"advanceDiscount=0&depart=Frankfurt&departDate=03%2F06%2F2022&arrive=Paris&returnDate=03%2F07%2"
+"F2022&numPassengers=1&seatPref=None&seatType=Coach&findFlights.x=62&findFlights.y=11&.cgifield"
+"s=roundtrip&.cgifields=seatType&.cgifields=seatPref"
